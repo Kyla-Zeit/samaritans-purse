@@ -12,7 +12,6 @@ The application is structured using reusable React components for maintainabilit
 - Fully responsive layout (mobile, tablet, desktop)
 - Component-based React architecture
 - One-page donation experience built into the site flow
-- Expanded content inspired by the Samaritan’s Purse Canada website
 - Clean, nonprofit-style design with consistent spacing and section flow
 - GitHub Pages deployment
 - Reusable section and UI structure for easier future edits
