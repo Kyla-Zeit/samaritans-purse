@@ -1,4 +1,4 @@
-# Samaritans Purse Project
+# Samaritans Purse
 
 This project is a complete React + Vite application, featuring a polished nonprofit-style UI, responsive layouts, expanded content sections, and a one-page donation experience. The site is optimized for both desktop and mobile, with attention paid to clean spacing, readable content blocks, and a consistent visual flow across sections.
 
